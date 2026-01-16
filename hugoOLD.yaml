@@ -1,0 +1,15 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Leonard Busch
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true  # (Default: true)
+enableRobotsTXT: true # (Default: false)
+buildDrafts: false  # (Default: false)
+buildFuture: false  # (Default: false)
+buildExpired: false  # (Default: false)
+enableEmoji: false # (Default: false)
+pygmentsUseClasses: true # (Default: true)
+mainsections: ["Research", "Teaching"]  # (Default: none - depends on your content structure)
+
+
