@@ -16,7 +16,8 @@ title: ""
 
 2\. **On Exponential Instability of an Inverse Problem for the Wave Equation**. 2025. \
 L. Busch, M. Lassas, L. Oksanen, and M. Salo. \
-[arXiv: 2506.23559](https://arxiv.org/abs/2506.23559).
+[arXiv: 2506.23559](https://arxiv.org/abs/2506.23559). \
+(accepted for publication by *International Mathematics Research Notices*). 
 
 ### Publications
 
