@@ -4,6 +4,9 @@ title: ""
 
 ## Publications 
 
+5\. **\(In\)stability results for the Light Ray Transform**. 2026. \
+L. Busch, S. Muñoz-Thon, L. Oksanen. \
+[arXiv: 2609.14387](https://arxiv.org/abs/2609.14387).
 
 4\. **Generalized boundary rigidity and minimal surface transform**. 2025. \
 L. Busch, T. Liimatainen, M. Salo, and L. Tzou. \
