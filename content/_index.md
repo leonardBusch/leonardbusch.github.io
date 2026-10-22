@@ -9,6 +9,10 @@ I am a PhD student at the University of Amsterdam, working under the supervision
 
 ### Preprints
 
+6\. **Density of Products of Solutions and the Linearized Calderón Problem in an Analytic Background**. 2026. \
+L. Busch, T. Liimatainen, G. Uhlmann. \
+[arXiv: 2610.19288](https://arxiv.org/abs/2610.19288). 
+
 5\. **\(In\)stability results for the Light Ray Transform**. 2026. \
 L. Busch, S. Muñoz-Thon, L. Oksanen. \
 [arXiv: 2609.14387](https://arxiv.org/abs/2609.14387).
