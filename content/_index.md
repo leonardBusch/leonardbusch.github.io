@@ -4,7 +4,7 @@ title: Short biography
 
 ### Biography
 
-I am a PhD student at the University of Amsterdam, working under the supervision of [Leo Tzou](https://leotzouresearch.wordpress.com/). In my research I develop and apply **microlocal analysis** to solve **inverse problems**. 
+I am a research fellow in geometric inverse problems at the University of Melbourne, working in the group of [Leo Tzou](https://leotzouresearch.wordpress.com/). In my research I develop and apply **microlocal analysis** to solve **inverse problems**. 
 <!-- My CV is [here](/files/cv.pdf). -->
 
 ### Preprints
